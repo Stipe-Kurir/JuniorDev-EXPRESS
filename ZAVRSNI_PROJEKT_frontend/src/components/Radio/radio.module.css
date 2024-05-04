@@ -1,0 +1,13 @@
+.RadioElm{
+    width:100%;
+    padding: 5px 0px; 
+    font-size: 30px;
+    
+}
+.RadioBtn{
+    width:20px;
+    height:20px;
+     margin-right:10px; 
+    cursor: pointer;
+    margin-left: 40px;
+}

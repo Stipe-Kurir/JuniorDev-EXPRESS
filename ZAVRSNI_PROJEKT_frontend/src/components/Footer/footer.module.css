@@ -1,0 +1,41 @@
+.footer{
+    width:1400px;
+    height:100px;
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+    border: 3px solid black;
+    border-top: none;
+    justify-content: center;
+}
+.footerInfo{
+    width:40%;
+    height: 100%;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+.footerPreporucene{
+    color: white;
+    width:60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Item{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.Item:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: yellow;
+}

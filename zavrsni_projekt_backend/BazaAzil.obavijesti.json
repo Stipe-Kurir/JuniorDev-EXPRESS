@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6631f735ae72bac391d73cb6"
+  },
+  "naslov": "Svečano otvorenje",
+  "datum": "17/4/2023",
+  "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+  "vazno": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6631f75aae72bac391d73cb9"
+  },
+  "naslov": "Međunarodni dan mačaka",
+  "datum": "17/2/2023",
+  "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+  "vazno": false,
+  "__v": 0
+}]

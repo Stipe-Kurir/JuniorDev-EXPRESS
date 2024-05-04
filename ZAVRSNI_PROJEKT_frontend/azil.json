@@ -1,0 +1,133 @@
+{
+  "obavijesti": [
+    {
+      "id": "1",
+      "naslov": "Svečano otvorenje",
+      "datum": "17/4/2023",
+      "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+      "vazno": true
+    },
+    {
+      "id": "2",
+      "naslov": "Međunarodni dan mačaka",
+      "datum": "17/2/2023",
+      "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+      "vazno": false
+    }
+  ],
+  "donacije": [
+    {
+      "id": "2",
+      "kategorija": "donirano",
+      "tip": "Igračke",
+      "vrijednost": 15,
+      "opis": "Grebalica za mačke"
+    },
+    {
+      "kategorija": "donirano",
+      "tip": "Igračke",
+      "vrijednost": "10",
+      "opis": "igračka za pse",
+      "id": "4"
+    },
+    {
+      "kategorija": "donirano",
+      "tip": "Hrana",
+      "vrijednost": "22",
+      "opis": "22",
+      "id": "5"
+    },
+    {
+      "kategorija": "donirano",
+      "tip": "Hrana",
+      "vrijednost": "22",
+      "opis": "22",
+      "id": "7"
+    },
+    {
+      "kategorija": "nudi",
+      "tip": "Hrana",
+      "vrijednost": "22",
+      "opis": "sdad fa  afsf af aaf fa ",
+      "id": "10"
+    },
+    {
+      "kategorija": "trazi",
+      "tip": "Hrana",
+      "vrijednost": "22",
+      "opis": "sfaf",
+      "id": "12"
+    },
+    {
+      "id": "293e",
+      "kategorija": "nudi",
+      "tip": "Igračke",
+      "vrijednost": "123",
+      "opis": "123"
+    },
+    {
+      "id": "f396",
+      "kategorija": "trazi",
+      "tip": "Hrana",
+      "vrijednost": "111",
+      "opis": "111"
+    }
+  ],
+  "zivotinje": [
+    {
+      "id": "1",
+      "ime": "Garfield",
+      "vrsta": "Mačka",
+      "cip": true,
+      "godine": "42",
+      "opis": "Voli lazanje",
+      "pregled": "2022-09-13T00:00:00.000Z",
+      "udomljen": "nije udomljen",
+      "slika": "https://www.kucni-ljubimci.com/wp-content/uploads/2017/05/10-zanimljivih-cinjenica-o-mackama-1.jpg"
+    },
+    {
+      "id": "2",
+      "ime": "Snoopy",
+      "vrsta": "Pas",
+      "cip": true,
+      "godine": 40,
+      "opis": "Više od običnog psa",
+      "pregled": "2000-02-13T00:00:00.000Z",
+      "udomljen": "udomljen",
+      "slika": "https://imengine.prod.srp.navigacloud.com/?uuid=c81b4759-003b-55f4-bd03-c1d14729106e&type=primary&q=72&width=886"
+    },
+    {
+      "ime": "Fleki",
+      "vrsta": "Pas",
+      "cip": true,
+      "godine": "22",
+      "opis": "dsads",
+      "pregled": "2022-02-22T00:00:00.000Z",
+      "udomljen": "nije udomljen",
+      "slika": "https://slika.nezavisne.rs/2014/03/750x450/20140312170637_235118.jpg",
+      "id": "8"
+    },
+    {
+      "ime": "Lala",
+      "vrsta": "Mačka",
+      "cip": true,
+      "godine": "22",
+      "opis": "dsad",
+      "pregled": "2022-02-17T00:00:00.000Z",
+      "udomljen": "udomljen",
+      "slika": "https://d19p4plxg0u3gz.cloudfront.net/eb8a1730-35a7-11eb-b233-0242ac120025/original",
+      "id": "9"
+    },
+    {
+      "ime": "Dado",
+      "vrsta": "Pas",
+      "cip": false,
+      "godine": "20",
+      "opis": "asfasffsadsas",
+      "pregled": "2022-02-08T00:00:00.000Z",
+      "udomljen": "udomljen",
+      "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBVBGQpM-a3S6sCn-zDaQO45oe0nPGz986fyli_eV&s",
+      "id": "10"
+    }
+  ]
+}

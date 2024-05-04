@@ -1,0 +1,99 @@
+.HomeContainer{
+    width:1400px;
+    background-color: rgb(13, 176, 87);
+    margin-top: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:20px;
+    border: 3px solid black;
+    border-top: none; 
+}
+
+.Slider{
+    width:800px;
+    height:350px;
+    margin-top:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.Informacije{
+    width:800px;
+    height:300px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.InformacijeNaslov
+{
+    width:100%;
+    padding: 10px 0px;
+    background-color:yellow;
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.InformacijeTekst
+{
+    width:80%;
+    padding: 10px 0px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.Lokacija{
+    width:800px;
+    height:300px;
+    background-color:white;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.Mapa
+{
+    height:300px;
+    width:400px;
+    border: none;
+    display: flex;
+    
+}
+
+.Podaci
+{
+    width:50%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+}
+.PodaciEl
+{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    padding: 5px 0px;
+    margin:10px 0px;
+    font-size:20px;
+}
+
+.PodaciNaslov
+{
+    width:50%;
+    display: flex;
+    justify-content: center;
+    padding:10px 0px;
+    font-size: 28px;
+    margin-bottom:5px;
+}

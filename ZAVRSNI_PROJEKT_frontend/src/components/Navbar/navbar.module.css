@@ -1,0 +1,121 @@
+.NavContainer{
+    width:1400px;
+    height:180px;
+    display: flex;
+    flex-direction:column;
+    position:fixed;
+    z-index:999;
+    border-left: 3px solid black; 
+    border-right: 3px solid black; 
+    border-bottom: 1px solid black; 
+}
+
+.NavNaslov{
+ width: 100%;
+ height: 50%;   
+ display: flex;
+ flex-direction: row;
+}
+
+.naslov{
+    width:80%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+   background-color: black;
+    padding-left: 30px;
+    gap:30px; 
+}
+
+.LogoNaslov
+{
+    height:75px;
+    width:80px;
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 10px 0px;
+    background-color: yellow;
+    border-radius: 50%;
+    justify-content: center;
+    
+}
+.TekstNaslov
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    font-weight: bold;
+    font-size: 50px;
+    margin: 10px 0px;
+    color: yellow;
+    font-family: cursive;
+}
+
+.korisnik{
+width:20%;
+height: 100%;
+display: flex;
+flex-direction: row;
+align-items: center;
+background-color: black;
+gap:10px;
+justify-content: center;
+font-weight: bold;
+color: white;
+
+}
+
+.NavOpcije{
+    width: 100%;
+    height: 50%; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; 
+    background-color:black;
+    border-top: 1px solid black;
+}
+
+.Opcija{
+    width:20%; 
+    height:100%; 
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:white;
+}
+
+.Opcija:hover
+{
+    background-color:yellow;
+    transition: 0.2s;
+    color:black;
+    cursor:pointer;
+    text-decoration: underline;
+    
+}
+
+.OpcijaAktivna{
+    width:20%;
+    height:100%;
+    background-color:yellow; 
+    /* background-color: rgb(100, 201, 146); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:black;
+    text-decoration: underline;
+}
+
+

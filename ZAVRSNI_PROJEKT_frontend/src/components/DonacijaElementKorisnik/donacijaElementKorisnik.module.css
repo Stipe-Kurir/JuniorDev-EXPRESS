@@ -1,0 +1,52 @@
+.DonacijaPrikaz{
+    width:40%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.DonacijaElementi{
+    width:50%;
+    /* background-color: aquamarine; */
+    margin-top: 30px;
+    margin-bottom: 30px;
+    gap:10px;
+    display: flex;
+    flex-direction: column;
+}
+.DonacijaEl{
+    width:95%;
+    /* background-color: azure; */
+    padding: 10px 0px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+.DonacijaElementiBotuni{
+    width:50%;
+    /* background-color: brown; */
+}
+
+.BotunStil
+{
+    height:50px;
+    width:120px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    cursor: pointer;
+    margin: 10px 0px;
+}
+.JedanBotun
+{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+.PodaciElmOpis{
+    width:95%;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+}

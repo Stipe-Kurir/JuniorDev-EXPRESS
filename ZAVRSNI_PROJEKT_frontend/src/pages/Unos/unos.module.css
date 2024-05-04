@@ -1,0 +1,176 @@
+.UnosContainer{
+    width:1400px;
+    height:800px; 
+    background-color: rgb(13, 176, 87);
+    margin-top: 180px;
+    border: 3px solid black;
+    border-top: none; 
+}
+
+.UnosAdmin{
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.UnosAdminNaslov{
+    width:40%;
+    padding:25px 0px;
+    background-color: yellow; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px  5px 0px 0px;
+}
+
+.UnosAdminForm{
+    width:40%;
+    height: 85%;
+    background-color:white; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    border-radius: 0px 0px 5px  5px ;
+}
+
+
+.Input{
+    width:100%;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    
+}
+
+
+.Check{
+    width:100%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+    justify-content: center;
+    font-size: 20px;
+
+    font-weight: bold;
+    
+}
+.CheckBox{
+    width:20px;
+    height:20px;
+    cursor: pointer;
+}
+
+.label{
+    width:80%;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+
+    
+}
+.InputBar
+{
+    width:80%;
+    margin-left: 20px;
+}
+ .input{
+    width:50%;
+    height:20px;
+    outline:none;
+    border: 1px solid black;
+} 
+.inputArea{
+    width:50%;
+    outline:none;
+    border: 1px solid black;
+} 
+.inputGodine
+{
+    width:25%;
+    height:20px;
+    outline:none;
+    border: 1px solid black;
+}
+.inputDatum
+{
+    width:25%;
+    height:20px;
+    outline:none;
+    border: 1px solid black; 
+}
+
+.Vrsta{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.radioElements
+{
+    width:80%;
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    margin-left: 20px;
+    padding: 10px 0px;
+}
+
+.element{
+    gap:2px;
+    display: flex;
+    flex-direction: row;
+}
+
+.radioElm{
+   width:20px;
+   height: 20px;
+   cursor: pointer;
+}
+
+.radioLabel
+{
+    font-size: 20px;
+    
+}
+
+.Spremi{
+    margin-top: 25px;
+    padding: 20px 25px;
+    background-color:white;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Spremi:hover{
+    background-color: rgb(13, 176, 87);
+    transition: 0.2s;
+}
+
+
+.UnosKorisnik{
+    width:100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.UnosKorisnikTekst{
+    padding:30px;
+    font-size: 30px;
+    font-weight: bold;
+    border:3px solid white;
+    border-radius: 10px;
+    color:white;
+}

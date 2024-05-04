@@ -1,0 +1,142 @@
+.PopisElement{
+    margin:20px;
+    width:65%;
+    height:500px;
+    background-color: white;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 3px solid black;
+}
+
+.PopisElementNijeUdomljen{
+    margin:20px;
+    width:65%;
+    height:500px;
+    background-color: yellow;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 3px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.Slika{
+    width:50%;
+    /* background-color: coral; */
+    height:85%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.SlikaElm
+{
+    width:80%;
+    height:50%;
+    border-radius: 5px;
+}
+
+.Podaci{
+    width:50%;
+    height:80%;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin-top: 20px;
+}
+
+.Botuni
+{
+    width:100%;
+    background-color: black; 
+    height:15%;
+    margin-bottom: 10px;
+}
+.BotunRaspored
+{
+    width:100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+}
+.BotuniRaspored
+{
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.BotunUdomi{
+    width:50%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+}
+
+.BotunUredi{
+    width:50%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+}
+
+.BotunUdomiStil
+{
+    padding:10px 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: white;
+}
+
+.BotunUrediStil
+{
+    padding:10px 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: white;
+}
+.BotunUrediStilZatvori
+{
+    padding:10px 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: white;
+}
+
+.BotunUrediStilZatvori:hover{
+    background-color: red;
+    transition: 0.2s;
+}
+
+.BotunUrediStil:hover{
+    background-color: rgb(13, 176, 87);
+    transition: 0.2s;
+}
+
+.BotunUdomiStil:hover{
+    background-color: rgb(13, 176, 87);
+    transition: 0.2s;
+}
+
+.PodaciElm{
+    width:100%;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.PodaciElmOpis{
+    width:100%;
+    font-size: 20px;
+    margin-top: 10px;
+}

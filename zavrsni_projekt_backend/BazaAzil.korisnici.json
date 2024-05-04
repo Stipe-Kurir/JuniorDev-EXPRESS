@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "663109968af1f01065b93ae0"
+  },
+  "username": "Admin",
+  "password": "$2b$10$2aS4g8wlqy6XaBNgl8iXg.fcfNjMSbdcii181Uwn1A619A26Ek7Dy",
+  "role": "admin",
+  "email": "admin@mail.com",
+  "__v": 11,
+  "donacije": [
+    {
+      "$oid": "66369663c4799aa8047b03ac"
+    },
+    {
+      "$oid": "663696f6c4799aa8047b03d6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663109a28af1f01065b93ae2"
+  },
+  "username": "Stipe",
+  "password": "$2b$10$JVbPuCEUdfa69RVxlWW1zOL2xHPylgTf3deIJ70EIJ.cxF6uYSqgG",
+  "role": "korisnik",
+  "email": "stipe@mail.com",
+  "__v": 11,
+  "donacije": [
+    {
+      "$oid": "66369694c4799aa8047b03b7"
+    }
+  ]
+}]

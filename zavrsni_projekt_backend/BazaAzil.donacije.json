@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66369663c4799aa8047b03ac"
+  },
+  "kategorija": "donirano",
+  "vrijednost": 12,
+  "tip": "Igračke",
+  "opis": "igračke za pse",
+  "donatorId": {
+    "$oid": "663109968af1f01065b93ae0"
+  },
+  "donatorUsername": "Admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66369694c4799aa8047b03b7"
+  },
+  "kategorija": "trazi",
+  "vrijednost": 33,
+  "tip": "Igračke",
+  "opis": "igračke za mačke",
+  "donatorId": {
+    "$oid": "663109a28af1f01065b93ae2"
+  },
+  "donatorUsername": "Stipe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663696f6c4799aa8047b03d6"
+  },
+  "kategorija": "trazi",
+  "vrijednost": 22,
+  "tip": "Hrana",
+  "opis": "hrana za pse",
+  "donatorId": {
+    "$oid": "663109968af1f01065b93ae0"
+  },
+  "donatorUsername": "Admin",
+  "__v": 0
+}]
